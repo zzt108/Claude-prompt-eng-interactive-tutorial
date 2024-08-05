@@ -3,7 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="0eaab7fa-7953-4308-81ea-f837596e2ca9" name="Changes" comment="getting API_KEY and MODEL_NAME from config files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anthropic 1P/02_Being_Clear_and_Direct.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Anthropic 1P/02_Being_Clear_and_Direct.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anthropic 1P/03_Assigning_Roles_Role_Prompting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Anthropic 1P/03_Assigning_Roles_Role_Prompting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anthropic 1P/04_Separating_Data_and_Instructions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Anthropic 1P/04_Separating_Data_and_Instructions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anthropic 1P/05_Formatting_Output_and_Speaking_for_Claude.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Anthropic 1P/05_Formatting_Output_and_Speaking_for_Claude.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anthropic 1P/06_Precognition_Thinking_Step_by_Step.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Anthropic 1P/06_Precognition_Thinking_Step_by_Step.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anthropic 1P/07_Using_Examples_Few-Shot_Prompting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Anthropic 1P/07_Using_Examples_Few-Shot_Prompting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anthropic 1P/08_Avoiding_Hallucinations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Anthropic 1P/08_Avoiding_Hallucinations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anthropic 1P/09_Complex_Prompts_from_Scratch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Anthropic 1P/09_Complex_Prompts_from_Scratch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anthropic 1P/10.1_Appendix_Chaining Prompts.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Anthropic 1P/10.1_Appendix_Chaining Prompts.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anthropic 1P/10.2_Appendix_Tool Use.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Anthropic 1P/10.2_Appendix_Tool Use.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +54,7 @@
       <updated>1722873757206</updated>
       <workItem from="1722873759795" duration="1067000" />
       <workItem from="1722874845762" duration="953000" />
-      <workItem from="1722875911632" duration="7960000" />
+      <workItem from="1722875911632" duration="9903000" />
     </task>
     <task id="LOCAL-00001" summary="getting API_KEY and MODEL_NAME from config files">
       <created>1722881160360</created>
