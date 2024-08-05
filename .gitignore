@@ -1,2 +1,4 @@
 .DS_Store
 
+/configSecret.py
+/__pycache__/*
