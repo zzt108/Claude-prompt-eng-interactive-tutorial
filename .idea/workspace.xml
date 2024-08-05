@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0eaab7fa-7953-4308-81ea-f837596e2ca9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Anthropic 1P/00_Tutorial_How-To.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Anthropic 1P/00_Tutorial_How-To.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anthropic 1P/01_Basic_Prompt_Structure.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Anthropic 1P/01_Basic_Prompt_Structure.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <updated>1722873757206</updated>
       <workItem from="1722873759795" duration="1067000" />
       <workItem from="1722874845762" duration="953000" />
-      <workItem from="1722875911632" duration="2354000" />
+      <workItem from="1722875911632" duration="4556000" />
     </task>
     <servers />
   </component>
